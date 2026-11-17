@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:*YUVAN SHANKAR RAM K R * |  | **Reg. No.:*26017383 * |  |
+| **Name: YUVAN SHANKAR RAM K R  |  | **Reg. No.: 26017383  |  |
 |---|---|---|---|
-| **Date:* 17-11-2026 * | | **Batch / Section:* BE-CSE * | |
+| **Date: 17-11-2026  | | **Batch / Section: BE-CSE  | |
 
 ---
 
