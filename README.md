@@ -117,7 +117,7 @@ According to KCL, **It = I1 + I2 + I3**.
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 
 
-<img width="1402" height="1122" alt="KCL calculation1" src="https://github.com/user-attachments/assets/d90bc4a0-4c35-4c1d-a7a8-8a1beec5b52a" />
+<img width="1400" height="1122" alt="KCL calculation1" src="https://github.com/user-attachments/assets/d90bc4a0-4c35-4c1d-a7a8-8a1beec5b52a" />
 
 
 **Figure 6:** KCL calculation
